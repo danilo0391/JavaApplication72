@@ -34,6 +34,9 @@ public class JavaApplication72 {
 
         Dog d1 = new Dog("Dalmata", "Google", 10);
         d1.myDog();
+        
+        Dog d2 = new Dog("Husk", "Android", 5);
+        d2.myDog();
     }
 
 }
