@@ -11,10 +11,10 @@ package model;
  */
 public class Car {
     
-    String maker;
-    String color;
-    int numberOfDoors;
-    String engine;
+    private String maker;
+    private String color;
+    private int numberOfDoors;
+    private String engine;
     
     public Car(String maker, String color, int numberOfDoors, String engine){
         this.maker = maker;
